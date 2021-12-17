@@ -1,7 +1,7 @@
 id: P004181
 initial_creation_type: ocr
 created_at: 22/03/2020
-last_modified_at: 24/11/2021
+last_modified_at: 2021-12-17 10:58:49.347237
 source_metadata:
   id: bdr:W2046
   title: གསུང་འབུམ། དཔལ་ལྡན་ཡེ་ཤེས།
@@ -72,3 +72,5 @@ source_metadata:
       title: ''
       volume_number: 13
       total_pages: 608
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
