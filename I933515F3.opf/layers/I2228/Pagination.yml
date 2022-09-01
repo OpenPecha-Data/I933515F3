@@ -1,0 +1,64 @@
+id: 56475faf8bcc4a8c825e80cc3b3b5494
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  390b5471417642eeb033628ca2d42bc4:
+    span:
+      start: 0
+      end: 183
+    imgnum: 5
+    reference: 22280005.tif
+  063a84be1cd74013afd15fafdaa2c202:
+    span:
+      start: 184
+      end: 1293
+    imgnum: 7
+    reference: 22280007.tif
+  28b6ebf616f14893966902bb88a536ed:
+    span:
+      start: 1294
+      end: 2123
+    imgnum: 11
+    reference: 22280011.tif
+  4d7f895e886640c4ade12766e2144faf:
+    span:
+      start: 2124
+      end: 3292
+    imgnum: 13
+    reference: 22280013.tif
+  61f9a78b3670403a90e12059906d363f:
+    span:
+      start: 3293
+      end: 4330
+    imgnum: 14
+    reference: 22280014.tif
+  b3804196c49042c9bfbc17d8e6deabac:
+    span:
+      start: 4331
+      end: 5523
+    imgnum: 15
+    reference: 22280015.tif
+  ee21f84aa7bb417c8d551ccc79d9f115:
+    span:
+      start: 5524
+      end: 6674
+    imgnum: 19
+    reference: 22280019.tif
+  39be6d72cf69467b97a63e161e891677:
+    span:
+      start: 6675
+      end: 7809
+    imgnum: 20
+    reference: 22280020.tif
+  eddda77a856b48ee80243c8738acfe8e:
+    span:
+      start: 7810
+      end: 8884
+    imgnum: 269
+    reference: 22280269.tif
+  f0f09ae28dc4459f99fbfea631c98195:
+    span:
+      start: 8885
+      end: 9887
+    imgnum: 358
+    reference: 22280358.tif
